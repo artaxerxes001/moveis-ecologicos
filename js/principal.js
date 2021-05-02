@@ -1,4 +1,4 @@
-var banners = ["Os melhores do Brasil", "Qaulidade e preco baixo"];
+var banners = ["Do lixo ao luxo!", "Reaproveitar e aproveitar"];
 
 var bannerAtual = 0;
 
